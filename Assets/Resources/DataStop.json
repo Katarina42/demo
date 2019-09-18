@@ -1,0 +1,25 @@
+{
+	"StopDatas":
+	[
+	
+	{"names":["orange","cherry","cherry","cherry","lemon"],"won":100},
+	{"names":["seven","diamond","cherry","seven","lemon"],"won":0},
+	{"names":["lemon","seven","seven","seven","lemon"],"won":100},
+	{"names":["diamond","diamond","diamond","diamond","diamond"],"won":1000},
+	{"names":["plum","diamond","cherry","seven","lemon"],"won":0},
+	{"names":["plum","diamond","cherry","seven","lemon"],"won":1000},
+	{"names":["plum","diamond","cherry","seven","lemon"],"won":1000},
+	{"names":["plum","diamond","cherry","seven","lemon"],"won":1000},
+	{"names":["orange","cherry","cherry","cherry","lemon"],"won":100},
+	{"names":["seven","diamond","cherry","seven","lemon"],"won":0},
+	{"names":["lemon","seven","seven","seven","lemon"],"won":100},
+	{"names":["diamond","diamond","diamond","diamond","diamond"],"won":1000},
+	{"names":["plum","diamond","cherry","seven","lemon"],"won":0},
+	{"names":["plum","diamond","cherry","seven","lemon"],"won":1000},
+	{"names":["plum","diamond","cherry","seven","lemon"],"won":1000},
+	{"names":["plum","diamond","cherry","seven","lemon"],"won":1000}
+
+
+	]
+}
+

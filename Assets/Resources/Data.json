@@ -1,0 +1,38 @@
+{
+"SlotDatas":
+	[ 
+		{"name":"lemon","value":0},
+		{"name":"plum","value":1},
+		{"name":"orange","value":2},
+		{"name":"seven","value":3},
+		{"name":"cherry","value":4},
+		{"name":"diamond","value":5},
+		{"name":"diamond","value":0},
+		{"name":"plum","value":1},
+		{"name":"seven","value":2},
+		{"name":"cherry","value":3},
+		{"name":"lemon","value":4},
+		{"name":"orange","value":5},
+		{"name":"orange","value":0},
+		{"name":"plum","value":1},
+		{"name":"diamond","value":2},
+		{"name":"seven","value":3},
+		{"name":"lemon","value":4},
+		{"name":"cherry","value":5},
+		{"name":"plum","value":0},
+		{"name":"diamond","value":1},
+		{"name":"seven","value":2},
+		{"name":"orange","value":3},
+		{"name":"lemon","value":4},
+		{"name":"cherry","value":5},
+		{"name":"lemon","value":0},
+		{"name":"plum","value":1},
+		{"name":"diamond","value":2},
+		{"name":"orange","value":3},
+		{"name":"cherry","value":4},
+		{"name":"seven","value":5}
+	]
+
+}
+
+ 
